@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "709370408732",
+    "project_id": "phonenumberauthenticatio-fe13e",
+    "storage_bucket": "phonenumberauthenticatio-fe13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709370408732:android:413ec6b10575681f8154d9",
+        "android_client_info": {
+          "package_name": "com.krashkrosh748199.phonenumberauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709370408732-5olq5nvc7tt9cc0pb0gcjc1pbil0t4v5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krashkrosh748199.phonenumberauthentication",
+            "certificate_hash": "791d493e43495f84b67107e92435bfab2d7d4aa1"
+          }
+        },
+        {
+          "client_id": "709370408732-vlcsjf2am4lmnav2uu9c6s7fm1edrb65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr2mJY7UR8uMxiOaIEOAnri87UpyBSQa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709370408732-vhq394lk9agaueob1pbqncrp7gois64q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
